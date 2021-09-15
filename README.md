@@ -1,1 +1,3 @@
-# 2021__2021_GRLASoftware-Engineering
+# UWS GRLA Software Engineering
+
+This repository contains source code created during the workshops.
